@@ -1,0 +1,9 @@
+2023-06-11 12:16:30,273 This is my line of execution
+2023-06-11 12:16:30,287 This is my error
+2023-06-11 12:16:30,306 This is my critical
+2023-06-11 12:16:30,319 This is warning
+2023-06-11 12:16:30,334 This is logging debug
+2023-06-11 12:16:41,452 This is my info log
+2023-06-11 12:17:17,828 This is my debug log
+2023-06-11 12:18:39,825 This is my warnning
+2023-06-11 12:18:44,575 This is my warning
