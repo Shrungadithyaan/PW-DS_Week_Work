@@ -6,10 +6,10 @@ from os.path import dirname, join , abspath
 # The python sys module provides functions and variables which are used to manipulate different parts of the Python Runtime Environment. It lets us access system-specific parameters and functions. import sys. First, we have to import the sys module in our program before running any functions.
 
 sys.path.insert(0,abspath(join(dirname(__file__),'..')))
-from payment import payment_details
+# from payment import payment_details
 
 def course():
 
     print("This is course details")
 
-payment_details.payment()
+# payment_details.payment()
